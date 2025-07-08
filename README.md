@@ -5,12 +5,11 @@
 
 🔭 I’m currently working on:
 - 🌀 Wind Power Prediction using React Native & Flask ML API
-- 🌐 Portfolio Website using React, Tailwind, and Vite
-- 📱 Building Android/iOS Apps using React Native
-- 🧩 Designing & Developing Websites for Educational Institution
+- 📱 [Gau Sampurna](https://www.gausampurna.co/) – A multilingual e-commerce platform for cattle trading
+- 🧩 [Silo Fortune Website](https://www.silofortune.com/) – A responsive static business website
 
 🌱 I’m learning:
-- Advanced React js and React Native
+- Advanced React.js and React Native
 - Next.js
 - DevOps (AWS, Docker, EC2)
 
@@ -27,8 +26,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +37,21 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
+### 💼 Internship Experience
+
+- 💻 **Frontend Developer Intern** at Silo Fortune India Pvt Ltd, Bangalore (Nov 2024 – Present)  
+- 🤖 **Python with Generative AI/ML Intern** at Technologics Global Pvt Ltd (May 2024 – June 2024)  
+- 🌐 **Web App Developer Intern** at JVGlobalServices Pvt Ltd, Bangalore (Oct 2022 – Nov 2022)  
+
+---
+
+### 📌 Highlight Projects
+
+- 🔗 [**Silo Fortune Website**](https://www.silofortune.com/) – A responsive, modern UI static website  
+- 🔗 [**Gau Sampurna Platform**](https://www.gausampurna.co/) – Full-featured e-commerce app for cattle trading  
+- 🛠️ **Custom Report Generation System** – Automated livestock reporting with external API integration, reduced manual work by 70%  
 ---
 
 ### 📈 GitHub Stats
