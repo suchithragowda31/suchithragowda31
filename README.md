@@ -18,7 +18,7 @@
 - Creating modern, responsive websites with React.js
 - Integrating Flask ML APIs into real-world projects
 
-📫 How to reach me: **suchithragowda31@gmail.com**
+📫 How to reach me: **suchithragowdadpg@gmail.com**
 
 👨‍💻 All of my projects are available at [My GitHub](https://github.com/suchithragowda31)
 
